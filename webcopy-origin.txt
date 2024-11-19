@@ -1,0 +1,36 @@
+Uri: https://developerreva.github.io/
+File Name: C:\Downloaded Web Sites\developerreva.github.io\index.htm
+Content Type: text/html
+
+Uri: https://developerreva.github.io/assets/images/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\developerreva.github.io\assets\images\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://developerreva.github.io/assets/images/favicon-16x16.png
+File Name: C:\Downloaded Web Sites\developerreva.github.io\assets\images\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://developerreva.github.io/assets/images/favicon-32x32.png
+File Name: C:\Downloaded Web Sites\developerreva.github.io\assets\images\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://developerreva.github.io/assets/videos/matrix.gif
+File Name: C:\Downloaded Web Sites\developerreva.github.io\assets\videos\matrix.gif
+Content Type: image/gif
+
+Uri: https://developerreva.github.io/static/css/2.3f756516.chunk.css
+File Name: C:\Downloaded Web Sites\developerreva.github.io\static\css\2.3f756516.chunk.css
+Content Type: text/css
+
+Uri: https://developerreva.github.io/static/js/2.af0d01cd.chunk.js
+File Name: C:\Downloaded Web Sites\developerreva.github.io\static\js\2.af0d01cd.chunk.js
+Content Type: application/javascript
+
+Uri: https://developerreva.github.io/static/js/main.2024_0.chunk.js
+File Name: C:\Downloaded Web Sites\developerreva.github.io\static\js\main.2024_0.chunk.js
+Content Type: application/javascript
+
+Uri: https://mc.yandex.ru/watch/94553871
+File Name: C:\Downloaded Web Sites\developerreva.github.io\watch\94553871
+Content Type: image/gif
+

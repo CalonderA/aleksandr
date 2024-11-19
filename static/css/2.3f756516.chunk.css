@@ -1,4 +1,4 @@
-:root,
+﻿:root,
 [scheme=bright_light],
 body[scheme=bright_light] {
 	--accent: #2688eb;
@@ -242,12 +242,12 @@ body[scheme=space_gray] {
 	--media_overlay_button_background: #fff;
 	--media_overlay_button_foreground: #2c2d2e;
 	--panel_tab_inactive_text: #76787a
-    background-image: url("/assets/videos/matrix.gif");
+    background-image: url("../../assets/videos/matrix.gif");
 }
 
 [scheme=space_gray],
 body[scheme=space_gray] {
-    background-image: url("/assets/videos/matrix.gif");
+    background-image: url("../../assets/videos/matrix.gif");
 	--accent: #71aaeb;
 	--accent_alternate: #fff;
 	--action_sheet_action_foreground: #fff;
@@ -1035,7 +1035,7 @@ body[scheme=vkcom_dark] {
 }
 
 .vkui--sizeX-regular {
-    background-image: url("/assets/videos/matrix.gif");
+    background-image: url("../../assets/videos/matrix.gif");
 }
 
 .vkuiAppRoot--no-mouse {
@@ -6143,11 +6143,11 @@ body[scheme=vkcom_dark] {
 }
 
 body[scheme=space_gray] .vkuiGradient--md-tint.vkuiGradient--to-top {
-	background-image: url("/assets/videos/matrix.gif");
+	background-image: url("../../assets/videos/matrix.gif");
 }
 
 body[scheme=space_gray] .vkuiGradient--md-tint.vkuiGradient--to-bottom {
-	background-image: url("/assets/videos/matrix.gif");
+	background-image: url("../../assets/videos/matrix.gif");
 }
 
 .vkuiSimpleCell {

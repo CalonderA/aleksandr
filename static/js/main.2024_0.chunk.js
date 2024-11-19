@@ -114,7 +114,7 @@
                                     style: {
                                         marginTop: "16px"
                                     },
-                                    children: "Developereva"
+                                    children: "Calonder X"
                                 })
                             }), Object(g.jsx)(o.y, {
                                 level: "3",
@@ -123,7 +123,7 @@
                                     marginTop: "16px"
                                 }
                             }), Object(g.jsx)(m.a, {
-                                strings: ["Developer","NO TOXIC"],
+                                strings: ["Calonder","Хомяки любят кушать"],
                                 typeSpeed: 60,
                                 backSpeed: 10,
                                 cursorChar: "_",
@@ -295,7 +295,7 @@
                                 },
                                 level: "2",
                                 weight: "semibold",
-                                children: "☎️ \u041A\u043E\u043D\u0442\u0430\u043A\u0442\u044B ☎️"
+                                children: "☎️ Контакты Хомяка ☎️"
                             }), Object(g.jsx)(o.d, {
                                 onClick: C,
                                 before: Object(g.jsx)(F.c, {
@@ -306,7 +306,7 @@
                                     color: "#F0F6FC",
                                     background: "#25A3E2"
                                 },
-                                "data-href": "https://t.me/developereva",
+                                "data-href": "https://t.me/calonder",
                                 size: "l",
                                 children: "Telegram"
                             }),   Object(g.jsx)(o.d, {
@@ -319,7 +319,7 @@
                                     color: "#F0F6FC",
                                     background: "#0077ff"
                                 },
-                                "data-href": "mailto:developereva@protonmail.com",
+                                "data-href": "mailto:project.team@gmail.com",
                                 size: "l",
                                 children: "Mail"
                             }), Object(g.jsx)(o.d, {
@@ -332,7 +332,7 @@
                                     color: "#F0F6FC",
                                     background: "#27303D"
                                 },
-                                "data-href": "https://github.com/Developerreva",
+                                "data-href": "https://github.com/CalonderA",
                                 size: "l",
                                 children: "GitHub"
                             })]
@@ -366,7 +366,7 @@
                                 },
                                 level: "2",
                                 weight: "semibold",
-                                children: "💸 \u0417\u0434\u0435\u0441\u044c \u0435\u0441\u0442\u044c \u0432\u0441\u0435 \u0441\u043f\u043e\u0441\u043e\u0431\u044b, \u043f\u0440\u0438 \u043f\u043e\u043c\u043e\u0449\u0438 \u043a\u043e\u0442\u043e\u0440\u044b\u0445 \u0432\u044b \u043c\u043e\u0436\u0435\u0442\u0435 \u043c\u0435\u043d\u044f \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u0430\u0442\u044c 💸"
+                                children: "💸 Покушать 💸"
                             }), Object(g.jsx)(o.d, {
                                 onClick: v,
                                 "data-copy": "TG23K9WgN3n4VeY345oLMRp8B6hGGWe8G3",
@@ -600,41 +600,18 @@
                             }), 
                             Object(g.jsxs)(o.l, {
                                 children: [Object(g.jsx)(I, {
-                                    title: "🌐 \u0424\u043E\u0440\u0443\u043C\u0020 «\u0045\u006E\u0064\u0057\u0061\u0079»",
-                                    link: "https://endway.su",
-                                    telegram: "https://t.me/end_raid",
+                                    title: "🌐  Приложение «Одых и Спокой»",
+                                                                        telegram: "https://t.me/calonder",
                                     job: "\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a\u002f\u0421\u043e\u002d\u041e\u0441\u043d\u043e\u0432\u0430\u0442\u0435\u043b\u044c",
                                     work: "2022now",
                                     odnoras: "❌"
                                 }), Object(g.jsx)(I, {
-                                    title: '📜 \u0422\u0435\u043b\u0435\u0433\u0440\u0430\u043c\u0020\u043a\u0430\u043d\u0430\u043b\u000d\u000a «\u0045\u006e\u0064\u0020\u0053\u006f\u0066\u0074»',
-                                    telegram: "https://t.me/end_soft",
+                                    title: '📜 Канал Calonder»',
+                                    telegram: "https://t.me/calonder",
                                     job: "\u0420\u0435\u0434\u0430\u043a\u0442\u043e\u0440",
                                     work: "2022now",
                                     odnoras: "❌"
-                                }),
-                                Object(g.jsx)(I, {
-                                    title: '🤖 \u0422\u0435\u043B\u0435\u0433\u0440\u0430\u043C\u0020\u0431\u043E\u0442 «\u041F\u043E\u043C\u043E\u0449\u043D\u0438\u043A\u0020\u0410\u0440\u0431\u0438\u0442\u0440\u0430\u0436\u043D\u0438\u043A\u0430»',
-                                    telegram: "https://t.me/HelperArbitr_bot",
-                                    job: "\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\u002F\u0410\u0434\u043C\u0438\u043D\u0438\u0441\u0442\u0440\u0430\u0442\u043E\u0440",
-                                    work: "2023now",
-                                    odnoras: "❌"
-                                }),
-                                Object(g.jsx)(I, {
-                                    title: '🤖 \u0422\u0435\u043B\u0435\u0433\u0440\u0430\u043C\u0020\u0431\u043E\u0442 «\u0053\u0075\u006E\u0072\u0069\u0073\u0065\u0020\u004B\u0046\u0020\u004D\u006F\u006E\u0069\u0074\u006F\u0072\u0069\u006E\u0067»',
-                                    telegram: "https://t.me/sunrisekfservers_bot",
-                                    job: "\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\u002F\u0410\u0434\u043C\u0438\u043D\u0438\u0441\u0442\u0440\u0430\u0442\u043E\u0440",
-                                    work: "2023now",
-                                    odnoras: "❌"
-                                }),
-                                Object(g.jsx)(Y, {
-                                    title: '🤖 \u0422\u0435\u043B\u0435\u0433\u0440\u0430\u043C\u0020\u0431\u043E\u0442 «\u041C\u0430\u0441\u0441\u0430\u0436\u0020\u041D\u0430\u0442\u0430\u043B\u044C\u044F»',
-                                    telegram: "https://t.me/developereva",
-                                    job: "\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A",
-                                    //work: "",
-                                    odnoras: "✅"
-                                })
-                            ]
+                                })                            ]
                             })]
                         })
                     })]
@@ -712,7 +689,7 @@
                                 maxWidth: "280px",
                                 children: Object(g.jsxs)(o.p, {
                                     children: [z && Object(g.jsx)(o.q, {
-                                        children: "Developereva"
+                                        children: "Calonder X"
                                     }), Object(g.jsxs)(o.j, {
                                         children: [Object(g.jsx)(o.e, {
                                             disabled: "me" === a,
